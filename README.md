@@ -85,6 +85,7 @@ Custom_KoBERT_Tokenizer_project/
 - 의미 중심 subword 생성 유도
 
 📄 `Custom_KoBERT_Tokenizer_Project.ipynb`
+- [코랩에서 확인하기](https://drive.google.com/file/d/1ECm4wIkcQIwXYhkM_GA8zAmqIMczvYnK/view?usp=sharing)
 - 🔍 [nbviewer로 보기](https://nbviewer.org/github/jeongsonghui/Custom_KoBERT_Tokenizer_project/blob/main/Custom_KoBERT_Tokenizer_Project.ipynb)
 
 
